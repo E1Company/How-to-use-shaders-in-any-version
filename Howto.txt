@@ -1,0 +1,5 @@
+One Way Is Get it In Video Settings And Select RTX You must have a rtx graphics card 
+Another Way Is To Install optifine WARNING: You Need to install java then Run Optifine jar file and it will 
+show In your game versions OPTIFINE IS JAVA ONLY then Go to video settings find shaders in there import your shader zip pack 
+best shader links: https://www.curseforge.com/minecraft/shaders/complementary-reimagined https://www.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders optifine link: https://optifine.net/downloads 
+java download: https://www.oracle.com/java/technologies/downloads/ or https://www.java.com/en/download/manual.jsp 
